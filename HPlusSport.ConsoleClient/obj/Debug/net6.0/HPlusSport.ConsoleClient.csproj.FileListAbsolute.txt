@@ -1,0 +1,17 @@
+H:\ASP.Net\HPlusSport\HPlusSport.ConsoleClient\bin\Debug\net6.0\HPlusSport.ConsoleClient.exe
+H:\ASP.Net\HPlusSport\HPlusSport.ConsoleClient\bin\Debug\net6.0\HPlusSport.ConsoleClient.deps.json
+H:\ASP.Net\HPlusSport\HPlusSport.ConsoleClient\bin\Debug\net6.0\HPlusSport.ConsoleClient.runtimeconfig.json
+H:\ASP.Net\HPlusSport\HPlusSport.ConsoleClient\bin\Debug\net6.0\HPlusSport.ConsoleClient.dll
+H:\ASP.Net\HPlusSport\HPlusSport.ConsoleClient\bin\Debug\net6.0\HPlusSport.ConsoleClient.pdb
+H:\ASP.Net\HPlusSport\HPlusSport.ConsoleClient\bin\Debug\net6.0\IdentityModel.dll
+H:\ASP.Net\HPlusSport\HPlusSport.ConsoleClient\obj\Debug\net6.0\HPlusSport.ConsoleClient.csproj.AssemblyReference.cache
+H:\ASP.Net\HPlusSport\HPlusSport.ConsoleClient\obj\Debug\net6.0\HPlusSport.ConsoleClient.GeneratedMSBuildEditorConfig.editorconfig
+H:\ASP.Net\HPlusSport\HPlusSport.ConsoleClient\obj\Debug\net6.0\HPlusSport.ConsoleClient.AssemblyInfoInputs.cache
+H:\ASP.Net\HPlusSport\HPlusSport.ConsoleClient\obj\Debug\net6.0\HPlusSport.ConsoleClient.AssemblyInfo.cs
+H:\ASP.Net\HPlusSport\HPlusSport.ConsoleClient\obj\Debug\net6.0\HPlusSport.ConsoleClient.csproj.CoreCompileInputs.cache
+H:\ASP.Net\HPlusSport\HPlusSport.ConsoleClient\obj\Debug\net6.0\HPlusSport.ConsoleClient.csproj.CopyComplete
+H:\ASP.Net\HPlusSport\HPlusSport.ConsoleClient\obj\Debug\net6.0\HPlusSport.ConsoleClient.dll
+H:\ASP.Net\HPlusSport\HPlusSport.ConsoleClient\obj\Debug\net6.0\refint\HPlusSport.ConsoleClient.dll
+H:\ASP.Net\HPlusSport\HPlusSport.ConsoleClient\obj\Debug\net6.0\HPlusSport.ConsoleClient.pdb
+H:\ASP.Net\HPlusSport\HPlusSport.ConsoleClient\obj\Debug\net6.0\HPlusSport.ConsoleClient.genruntimeconfig.cache
+H:\ASP.Net\HPlusSport\HPlusSport.ConsoleClient\obj\Debug\net6.0\ref\HPlusSport.ConsoleClient.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y/tkdNpiXPydquWzy5ig8N5eGmUsx3veas9XsUALxRkdm+cobTZDWW5awvhFSY7MO01WwfgeVR23+3SYgKBCMQ==",
+  "success": true,
+  "projectFilePath": "H:\\ASP.Net\\HPlusSport\\HPlusSport.ConsoleClient\\HPlusSport.ConsoleClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\opiba\\.nuget\\packages\\identitymodel\\6.1.0-preview.2\\identitymodel.6.1.0-preview.2.nupkg.sha512"
+  ],
+  "logs": []
+}
